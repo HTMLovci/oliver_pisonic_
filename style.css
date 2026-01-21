@@ -1,0 +1,38 @@
+body{
+    background-color: lightgray;
+    font-family: "Roboto", sans-serif;
+}
+
+.nav_ul{
+    list-style-type: none;
+    display: inline;
+    padding: 0px;
+}
+
+.nav_li {
+    display: inline;  
+    padding-right: 15px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+img{
+    width:300px;
+}
+
+h1{
+    color: slategray;
+}
+h2{
+    color: dimgray;
+}
